@@ -2,6 +2,8 @@
 layout: archive
 title: About Us
 permalink: /about/
+header:
+  overlay_image: /assets/images/peleton.jpg
 ---
 
 Razzle Dazzle is a women’s elite development bicycle racing team formed in 2015 to promote cycling and compete in one of the most competitive regions in the country. We are a USA Cycling sanctioned team based in the San Francisco Bay Area, registered in the Northern California and Nevada Cycling Association (NCNCA) region. Our mission is to support the development of elite racers and promote progress through teamwork and partnerships. We’re ambassadors of the sport and we engage with local organizations through volunteer and charity work to support our community.
