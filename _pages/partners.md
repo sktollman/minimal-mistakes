@@ -2,7 +2,7 @@
 layout: splash
 permalink: /partners/
 feature_row:
-  - image_path: /assets/images/riders/bikeflights.jpg
+  - image_path: /assets/images/partners/bikeflights.jpg
     alt: "bikeflights"
     title: "Bike Flights"
     #excerpt: "[Luisa's bio]"

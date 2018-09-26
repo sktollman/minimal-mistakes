@@ -5,7 +5,7 @@ feature_row:
   - image_path: /assets/images/riders/luisa.jpg
     alt: "luisa"
     title: "Luisa Sempere Chen"
-    excerpt: "[Luisa's bio]"
+    #excerpt: "[Luisa's bio]"
     url: "https://instagram.com/moofaapoofaa"
   - image_path: /assets/images/riders/sarah.jpg
     alt: "sarah"
