@@ -2,6 +2,11 @@
 layout: splash
 permalink: /riders/
 feature_row:
+  - image_path: /assets/images/riders/alicia.jpg
+    alt: "alicia"
+    title: "Alicia Hoffman"
+    #excerpt: "[Luisa's bio]"
+    url: "/riders/alicia"
   - image_path: /assets/images/riders/luisa.jpg
     alt: "luisa"
     title: "Luisa Sempere Chen"
@@ -12,11 +17,6 @@ feature_row:
     title: "Sarah Tollman"
     #excerpt: "[Luisa's bio]"
     url: "https://instagram.com/sktollman"
-  - image_path: /assets/images/riders/alicia.jpg
-    alt: "alicia"
-    title: "Alicia Hoffman"
-    #excerpt: "[Luisa's bio]"
-    url: "https://instagram.com/aliciakadventures"
   - image_path: /assets/images/riders/jen.jpg
     alt: "jen"
     title: "Jennifer Wilson"
