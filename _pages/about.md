@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: single
+title: About Us
 permalink: /about/
 ---
 
@@ -11,6 +12,6 @@ Razzle Dazzle is a women’s elite development bicycle racing team formed in 201
 
 The name might bring sparkles and sequins to mind, but razzle dazzle camouflage was used on ships and planes in WWI and WWII. It consists of a paint scheme of different geometric shapes and colors randomly intersecting one another. The purpose was not to hide the ships and planes, but to make it difficult to estimate the distance, direction, and speed of that target.
 
-### Contact
+## Contact
 
 [TODO: add contact email?](mailto:email@domain.com)
