@@ -2,7 +2,7 @@
 layout: splash
 permalink: /riders/
 feature_row:
-  - image_path: /assets/images/riders/luisa.jpg
+  - image_path: image_path: /assets/images/partners/bikeflights.png #/assets/images/riders/luisa.jpg
     alt: "luisa"
     title: "Luisa Sempere Chen"
     excerpt: "[Luisa's bio]"
