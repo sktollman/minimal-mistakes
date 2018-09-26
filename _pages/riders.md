@@ -2,11 +2,11 @@
 layout: splash
 permalink: /riders/
 feature_row:
-  - image_path: /assets/images/riders/luisa.png
+  - image_path: /assets/images/riders/luisa.jpg
     alt: "luisa"
     title: "Luisa Sempere Chen"
     excerpt: "[Luisa's bio]"
-    url: "https://instagram.com/moofapoofa"
+    url: "https://instagram.com/moofaapoofaa"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive Layouts"
