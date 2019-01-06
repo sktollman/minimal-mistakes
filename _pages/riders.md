@@ -32,6 +32,10 @@ gallerycaption:
     url: "/riders/jen"
 # julie
 # kari
+  - image_path: /assets/images/riders/kari.jpg
+    alt: "kari"
+    title: "Kari Lam"
+    url: "/riders/kari"
   - image_path: /assets/images/riders/luisa.jpg
     alt: "luisa"
     title: "Luisa Sempere Chen"
