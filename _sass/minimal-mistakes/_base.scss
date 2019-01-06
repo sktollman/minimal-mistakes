@@ -43,6 +43,7 @@ h2 {
 }
 
 h3 {
+  margin-top: 0;
   font-size: $type-size-5;
 }
 
@@ -126,6 +127,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
   }
