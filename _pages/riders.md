@@ -7,7 +7,10 @@ gallerycaption:
 #  title: "Alicia Hoffman"
 #  url: "/riders/alicia"
 # amee
-# amy jo
+  - image_path: /assets/images/riders/amyjo.jpg
+    alt: "amyjo"
+    title: "Amy Jo Johnson"
+    url: "/riders/amyjo"
   - image_path: /assets/images/riders/anna.jpg
     alt: "anna"
     title: "Anna Janas"
