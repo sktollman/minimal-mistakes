@@ -15,4 +15,4 @@ The name might bring sparkles and sequins to mind, but razzle dazzle camouflage 
 
 ## Contact
 
-[TODO: add contact email?](mailto:email@domain.com)
+[Email us!](mailto:razzledazzleracing@gmail.com)
