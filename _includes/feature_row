@@ -46,6 +46,13 @@
             </div>
           {% endif %}
 
+          {% if f.instagram %}
+            <a href="{{ f.instagram }}"><img src="/assets/images/social/instagram.png" alt="instagram icon"></a>
+          {% endif %}
+
+          {% if f.strava %}
+            <a href="{{ f.strava }}"><img src="/assets/images/social/strava.png" alt="strava icon"></a>
+          {% endif %}
         </div>
       </div>
     </div>

@@ -38,7 +38,7 @@ gallerycaption:
     url: "/riders/kari"
   - image_path: /assets/images/riders/luisa.jpg
     alt: "luisa"
-    title: "Luisa Sempere Chen"
+    title: "Luisa Sempere"
     url: "/riders/luisa"
 # mackenzie
 # maggie
