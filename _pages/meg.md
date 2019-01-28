@@ -21,7 +21,7 @@ feature_row:
 
       Half a nanner (cause I can never finish a whole one), oatmeal w/ dark chocolate and sour patch kid or two
 
-      ### [Favorite Route] (https://www.strava.com/activities/1768156657)
+      ### [Favorite Route](https://www.strava.com/activities/1768156657)
 
       ### Other Info
 
