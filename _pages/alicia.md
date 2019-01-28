@@ -5,17 +5,28 @@ permalink: /riders/alicia
 feature_row:
   - image_path: /assets/images/riders/alicia.jpg
     alt: "alicia"
-    title: "Alicia Hoffman"
+    title: "Alicia Hoffmann"
+    instagram: aliciakadventures
     excerpt:
-      "## Disciplines / Categories
+      "### Location
 
-      ## Favorite Ride Food
+      Mountain View
 
-      ## Favorite Route
+      ### Disciplines / Categories
 
-      ## Other Questions?
+      Road 5, Cyclocross 5
 
-      #### [Instagram](https://instagram.com/aliciakadventures)"
+      ### Favorite Pre-Race Fuel
+
+      Eggs and oatmeal loaded with yummies
+
+      ### Favorite Route
+
+      Hard to choose just one, but I love climbing thru the Redwoods
+      
+      ### Other
+
+      Will ride for food 😋"
 ---
 
 {% include feature_row type="left" %}

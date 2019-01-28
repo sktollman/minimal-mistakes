@@ -2,10 +2,10 @@
 layout: splash
 permalink: /riders/
 gallerycaption:
-#- image_path: /assets/images/riders/alicia.jpg
-#  alt: "alicia"
-#  title: "Alicia Hoffman"
-#  url: "/riders/alicia"
+  - image_path: /assets/images/riders/alicia.jpg
+    alt: "alicia"
+    title: "Alicia Hoffmann"
+    url: "/riders/alicia"
 # amee
   - image_path: /assets/images/riders/amyjo.jpg
     alt: "amyjo"
@@ -25,28 +25,42 @@ gallerycaption:
     alt: "heidi"
     title: "Heidi Poppe"
     url: "/riders/heidi"
-# jeanette
+  - image_path: /assets/images/riders/jeanette.jpg
+    alt: "jeanette"
+    title: "Jeanette Haggas"
+    url: "/riders/jeanette"
   - image_path: /assets/images/riders/jen.jpg
     alt: "jen"
     title: "Jennifer Wilson"
     url: "/riders/jen"
-# julie
-# kari
-  - image_path: /assets/images/riders/kari.jpg
+  - image_path: /assets/images/riders/julie.jpg
+    alt: "julie"
+    title: "Julie Cushen"
+    url: "/riders/julie"
+  - image_path: /assets/images/riders/julie.jpg
     alt: "kari"
     title: "Kari Lam"
     url: "/riders/kari"
+  - image_path: /assets/images/riders/kenzie.jpg
+    alt: "kenzie"
+    title: "Kenzie Miller"
+    url: "/riders/kenzie"
   - image_path: /assets/images/riders/luisa.jpg
     alt: "luisa"
     title: "Luisa Sempere"
     url: "/riders/luisa"
-# mackenzie
-# maggie
+  - image_path: /assets/images/riders/maggie.jpg
+    alt: "maggie"
+    title: "Maggie Lonergan"
+    url: "/riders/maggie"
   - image_path: /assets/images/riders/maya.jpg
     alt: "maya"
     title: "Maya Fors"
     url: "/riders/maya"
-# meg
+  - image_path: /assets/images/riders/meg.jpg
+    alt: "meg"
+    title: "Meghan Skidmore"
+    url: "/riders/meg"
   - image_path: /assets/images/riders/pamela.jpg
     alt: "pamela"
     title: "Pamela Levine"
