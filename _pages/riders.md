@@ -15,6 +15,10 @@ gallerycaption:
     alt: "anna"
     title: "Anna Janas"
     url: "/riders/anna"
+  - image_path: /assets/images/riders/annelaure.jpg
+    alt: "annelaure"
+    title: "Anne-Laure Strong"
+    url: "/riders/annelaure"
 # anne laure
 # brianna
   - image_path: /assets/images/riders/hannah.jpg

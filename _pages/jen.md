@@ -23,7 +23,7 @@ feature_row:
 
       ### Favorite Route
 
-      [Mt. Carmelo](https://www.strava.com/activities/1412850243/segments/35096531839)
+      [Santa Cruz Loop](https://www.strava.com/activities/1412850243)
       <br>
       [Russian Ridge MTB](https://www.strava.com/activities/1587569473)
 
