@@ -37,7 +37,7 @@ gallerycaption:
     alt: "julie"
     title: "Julie Cushen"
     url: "/riders/julie"
-  - image_path: /assets/images/riders/julie.jpg
+  - image_path: /assets/images/riders/kari.jpg
     alt: "kari"
     title: "Kari Lam"
     url: "/riders/kari"
