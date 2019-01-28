@@ -19,8 +19,10 @@ gallerycaption:
     alt: "annelaure"
     title: "Anne-Laure Strong"
     url: "/riders/annelaure"
-# anne laure
-# brianna
+  - image_path: /assets/images/riders/brianna.jpg
+    alt: "brianna"
+    title: "Brianna Stubbs"
+    url: "/riders/brianna"
   - image_path: /assets/images/riders/hannah.jpg
     alt: "hannah"
     title: "Hannah Thompson"
