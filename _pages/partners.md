@@ -43,4 +43,4 @@ gallery:
 {% include gallery %}
 <!-- {% include gallery layout="half" %} -->
 
-<center>Interested in BikeFlights?! Sign up through our [referral page](https://www.bikeflights.com/ambassador/Razzle-Dazzle-Racing) to get started!</center>
+<center>Interested in BikeFlights?! Sign up through our <a href="https://www.bikeflights.com/ambassador/Razzle-Dazzle-Racing">referral page</a> to get started!</center>
